@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.version>5.1.2.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
     </properties>
     <dependencies>
         <!--这个jar文件包含Spring框架基本的核心工具类，Spring其它组件要都要使用到这个包里的类，是其它组件的基本核心-->
